@@ -1,4 +1,12 @@
-### Hi there 👋
+# 👾 Welcome to my Github page 👾
+
+- 😄 Pronouns: He/Him/His
+- 🔭 I’m currently working on Abstraction-Based Control methods in [Dionysos.jl](https://github.com/dionysos-dev/Dionysos.jl)
+- 💻 I code in:
+
+ <img width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" /> <img width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> <img width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> <img width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> <img width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" /> <img width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original-wordmark.svg" />  <img width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" /> <img width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />                   
+          
+## Get to my [homepage](egidioln.github.io/) for more info!
 
 <!--
 **egidioln/egidioln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +19,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
